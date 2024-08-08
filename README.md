@@ -8,6 +8,7 @@ Le projet a été créé sous IntelliJ, pour le démarrer suivre les étapes sui
 - Cloner le projet
 - Avoir une BDD et suivre les consignes du fichier properties
 - Compiler le fichier main
+- L'URL de navigation par défaut "http://localhost:1001/"
 
 ## Sources & Outils
 
