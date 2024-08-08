@@ -1,5 +1,5 @@
 # Projet Book Store
-Faire un gestion d'une bibliothèque avec Spring Boot
+Faire un gestionnaire d'une bibliothèque avec Spring Boot
 
 ## Démarrer
 
