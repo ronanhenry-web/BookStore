@@ -1,15 +1,15 @@
-# Projet Book Store
-Faire un gestionnaire d'une bibliothèque avec Spring Boot
+# Book Store Project
+Creating a library management system with Spring Boot
 
-## Démarrer
+## Getting Started
 
-Le projet a été créé sous IntelliJ, pour le démarrer suivre les étapes suivantes.
+The project was created using IntelliJ. To get it running, follow these steps :
 
-- Cloner le projet
-- Avoir une BDD et suivre les consignes du fichier properties
-- Compiler le fichier main
-- L'URL de navigation par défaut "http://localhost:1001/"
+- Clone the project
+- Set up a database and follow the instructions in the properties file
+- Compile the main file
+- The default navigation URL is "http://localhost:1001/"
 
-## Sources & Outils
+## Sources & Tools
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
